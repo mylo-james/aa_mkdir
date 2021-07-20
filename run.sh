@@ -3,36 +3,36 @@ mkdir appacademy &&
 cd appacademy && 
 git clone https://github.com/appacademy/Module-1-Resources.git && 
 mkdir \
-W1 \
-W1/D1 \
-W1/D1/lecture W1/D1/projects W1/D1/homework \
-W1/D2 \
-W1/D2/lecture W1/D2/projects W1/D2/homework \
-W1/D3 \
-W1/D3/lecture W1/D3/projects W1/D3/homework \
-W1/D4 \
-W1/D4/lecture W1/D4/projects W1/D4/homework \
-W1/D5 \
-W1/D5/lecture W1/D5/projects W1/D5/homework \
-W2 \
-W2/D1 \
-W2/D1/lecture W2/D1/projects W2/D1/homework \
-W2/D2 \
-W2/D2/lecture W2/D2/projects W2/D2/homework \
-W2/D3 \
-W2/D3/lecture W2/D3/projects W2/D3/homework \
-W2/D4 \
-W2/D4/lecture W2/D4/projects W2/D4/homework \
-W2/D5 \
-W2/D5/lecture W2/D5/projects W2/D5/homework \
-W3 \
-W3/D1 \
-W3/D1/lecture W3/D1/projects W3/D1/homework \
-W3/D2 \
-W3/D2/lecture W3/D2/projects W3/D2/homework \
-W3/D3 \
-W3/D3/lecture W3/D3/projects W3/D3/homework \
-W3/D4 \
-W3/D4/lecture W3/D4/projects W3/D4/homework \
-W3/D5 \
-W3/D5/lecture W3/D5/projects W3/D5/homework \
+w1 \
+w1/d1 \
+w1/d1/lecture w1/d1/projects w1/d1/homework \
+w1/d2 \
+w1/d2/lecture w1/d2/projects w1/d2/homework \
+w1/d3 \
+w1/d3/lecture w1/d3/projects w1/d3/homework \
+w1/d4 \
+w1/d4/lecture w1/d4/projects w1/d4/homework \
+w1/d5 \
+w1/d5/lecture w1/d5/projects w1/d5/homework \
+w2 \
+w2/d1 \
+w2/d1/lecture w2/d1/projects w2/d1/homework \
+w2/d2 \
+w2/d2/lecture w2/d2/projects w2/d2/homework \
+w2/d3 \
+w2/d3/lecture w2/d3/projects w2/d3/homework \
+w2/d4 \
+w2/d4/lecture w2/d4/projects w2/d4/homework \
+w2/d5 \
+w2/d5/lecture w2/d5/projects w2/d5/homework \
+w3 \
+w3/d1 \
+w3/d1/lecture w3/d1/projects w3/d1/homework \
+w3/d2 \
+w3/d2/lecture w3/d2/projects w3/d2/homework \
+w3/d3 \
+w3/d3/lecture w3/d3/projects w3/d3/homework \
+w3/d4 \
+w3/d4/lecture w3/d4/projects w3/d4/homework \
+w3/d5 \
+w3/d5/lecture w3/d5/projects w3/d5/homework \
