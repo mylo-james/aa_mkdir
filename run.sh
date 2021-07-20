@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ~ &&
 mkdir appacademy && 
 cd appacademy && 
 git clone https://github.com/appacademy/Module-1-Resources.git && 
